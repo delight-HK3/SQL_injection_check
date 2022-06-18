@@ -3,11 +3,10 @@
 >사용한 프레임워크 : codeigniter 3, bootstrap 4<br>
 >사용한 언어 : php5, css3, jquery, javascript, SQL<br>
 >사용한 DB : MariaDB<br>
->사용한 DBMS : phpMyAdmin<br>
->사용한 서버 : Linux server<br>
->사용한 API : <a href="http://postcode.map.daum.net/guide">kakao post service</a><br>
->사용한 Tool : Visual Studio Code<br>
->테스트한 OS : Linux<br>
+>사용한 DBMS : MySQL<br>
+>사용한 서버 : Apache2 server<br>
+>개발 Tool : Visual Studio Code<br>
+>테스트한 OS : Window<br>
 <br>
 
 ### 프로젝트 분류 : 개인 프로젝트
@@ -22,8 +21,7 @@
   <li>이 프로젝트를 실행하기 위해서는 my 이름의 폴더가 있어야 합니다.</li>
   <kbd>
     <img src="https://user-images.githubusercontent.com/74585673/153512814-370120a3-735b-4730-869e-a6f7a24387e0.PNG">
-  </kbd>
-  <li>my 폴더를 만들어야합니다.</li>
+  </kbd><br><br>
   <li>/config/database.php 에서 데이터베이스를 새로 설정해주시기 바랍니다.</li>
   <li>데이터베이스의 데이터 정렬방식은 utf8_general_ci로 통일했습니다.</li>
   <li>codeIgniter3 에서 Index 죽이기 작업을 하고 진행했습니다. 위의 코드를 실행시키려면 먼저 Index 죽이기 작업을 하셔야 합니다.</li>
