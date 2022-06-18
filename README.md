@@ -1,7 +1,7 @@
 # SQL injection check
 
 >사용한 프레임워크 : codeigniter 3, bootstrap 4<br>
->사용한 언어 : php5, css3, jquery, javascript, SQL<br>
+>사용한 언어 : php8, css3, jquery, javascript, SQL<br>
 >사용한 DB : MariaDB<br>
 >사용한 DBMS : MySQL<br>
 >사용한 서버 : Apache2 server<br>
